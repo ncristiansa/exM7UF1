@@ -15,4 +15,5 @@
 </html>
 <!--
 	Como hemos deshabilitado el módulo de php comentando el código PHP, tan solo veremos en nuestra web la etiqueta <p>.
+	El código que se crea dinamicamente es la parte del PHP.
 -->
